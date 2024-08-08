@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Abhishek from Kochi, India.<br>- 🔭 I’m a BCA graduate and a huge "<i>Linux enthusiast</i>"🐧<br>- 📚 I'm currently sharpening up my knowledge in <b>Data Structures and Algorithms</b><br>- ⚡ In my free time I sleep 😅, but I do read books and try to learn new things everyday</p>
+<p align="left">I'm Abhishek from Kerala.<br>- 🔭 I’m a BCA graduate and a huge "<i>Linux enthusiast</i>"🐧<br>- 📚 I'm currently sharpening up my knowledge in <b>Data Structures and Algorithms</b><br>- ⚡ In my free time I sleep 😅, but I do read books and try to learn new things everyday</p>
 
 ###
 
