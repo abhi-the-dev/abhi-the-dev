@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="140" src="https://image.cdn2.seaart.ai/2023-09-29/18466374421594117/ee1ae6a32020c36989f23121c3a3675ca70ad59d_high.webp"  />
+<img align="right" height="120" src="https://image.cdn2.seaart.ai/2023-09-29/18466374421594117/ee1ae6a32020c36989f23121c3a3675ca70ad59d_high.webp"  />
 
 ###
 
