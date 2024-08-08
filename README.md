@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://media1.tenor.com/m/pMA1YSUNDrMAAAAd/slime-computer.gif" height="120px" align="right" />
+<img src="https://64.media.tumblr.com/a1905b98fe673997f7062ef42fc17fc5/tumblr_pfy15jjfvn1v57tj1o1_400.gifv" height="120px" align="right" />
 
 ###
 
